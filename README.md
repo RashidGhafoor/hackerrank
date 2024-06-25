@@ -1,2 +1,2 @@
-# hackerrank
-Algorithm solutions for hackerrank problems
+# HackerRank
+Algorithm solutions for hackerrank problem questions
